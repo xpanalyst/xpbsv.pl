@@ -1,5 +1,7 @@
 # XBSV_PL
 
+[![N|Solid](https://github.com/xpanalyst/xpbsv.pl/blob/main/xvb.png)](https://github.com/xpanalyst/xpbsv.pl/blob/main/xvb.png)
+
 XBSV_PL pozwala tworzyć klucze prywatne, wyświetlać adresy publiczne oraz wysyłać wiadomości do blockchain Bitcoin SV.
 ## Biblioteki
 - bitsv
